@@ -1,5 +1,6 @@
 # Windows_File_management_system
-A Java and JavaFx GUI based custom file management system where a user can login and can make a collection of his files, in an intutuive way. And can also search about within his collection.
+# Programing language Java and JavaFx. database used SQL. 
+A GUI based custom file management system where a user can login and can make a collection of his files, in an intutuive way. And can also search about within his collection.
 Scouter is a basic document management system in which a user uploads his/her own specific files and can view or search his/her files through various parameters.
 Liked (favourite) files option is also available for the user if he has additional subscription as well.
 
